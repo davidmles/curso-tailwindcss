@@ -1,1 +1,1 @@
-# Curso de Fundamentos de Tailwind CSS
+# Tailwind CSS Fundamentals course
